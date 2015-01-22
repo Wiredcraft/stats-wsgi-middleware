@@ -2,7 +2,7 @@
 
 The objectives are:
 
-- build a uwsgi middleware that can be used on any python based uwsgi process (e.g. Flask, Django)
+- build a uwsgi middleware that can be used on any python based wsgi process (e.g. Flask, Django)
 - track requests and responses stats into a redis database
 - pip installable module (e.g. setup.py, requirements.txt)
 - howto documentation / example to use and extract data
